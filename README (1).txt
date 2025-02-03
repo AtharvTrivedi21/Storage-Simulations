@@ -1,5 +1,5 @@
 Extendible Hashing and Bitmap Indexing README File for instructions
-24MCD002, 24MCD019
+24MCD002, 24MCD019 (Nirma University, MTech)
 
 Please note that the files for Extendible Hashing are:
 For API: ex_api,py and for App/Website: ex_app.py
